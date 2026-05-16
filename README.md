@@ -66,6 +66,6 @@ Git • GitHub • Vercel • Render • Postman • Figma • Docker
 ## 📫 Connect With Me
 📧 tanu.2023@vitstudent.ac.in  
 
-🌐 Portfolio:  https://portfolio-tanu-phi.vercel.app/ 
-💼 LinkedIn: https://www.linkedin.com/in/tanu-b80ba427b/
+🌐 Portfolio:  https://portfolio-tanu-phi.vercel.app/ <br>
+💼 LinkedIn: https://www.linkedin.com/in/tanu-b80ba427b/<br>
 🐙 GitHub: https://github.com/tanuvit16
