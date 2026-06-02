@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
