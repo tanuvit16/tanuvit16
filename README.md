@@ -22,37 +22,58 @@
 
 ## 🚀 Projects
 
+### 🤖 InterviewAI — AI Interview Platform
+
+- Built an AI-powered interview platform using Next.js, FastAPI, PostgreSQL, and OpenAI
+- Implemented AI-generated interview questions, recruiter scheduling, and candidate workflows
+- Added live camera proctoring, tab-switch alerts, and downloadable interview reports
+
 ### 🍔 Eatoza — Food Delivery Web Application
-- Built a responsive MERN stack food delivery platform  
-- Added restaurant verification and smooth user experience  
+
+- Built a responsive MERN stack food delivery platform
+- Added restaurant verification and smooth user experience
 
 ### 🎓 Learning Management System
-- Developed an LMS platform with course management features  
-- Created responsive UI for students and educators  
+
+- Developed an LMS platform with course management features
+- Created responsive UI for students and educators
 
 ### 🛣️ RoadAI — Road Damage Detection
-- Built AI-powered road damage detection using YOLO & Python  
-- Integrated MongoDB and map-based visualization system  
 
-### 📚 EduSphere — Online Learning Platform
-- Designed an interactive online learning platform  
-- Optimized frontend performance and deployment on Vercel  
+- Built AI-powered road damage detection using YOLO & Python
+- Integrated MongoDB and map-based visualization system
+
+### 🌌 EduSphere — Online Learning Platform
+
+- Designed an interactive online learning platform
+- Optimized frontend performance and deployment on Vercell  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Development
-HTML • CSS • JavaScript • React • Node.js • Express • Tailwind  • APIs
+## 🛠️ Tech Stack
 
-### ⚙️  Database
-MongoDB • MySQL • APIs  • PostgreSQL 
+### 💻 Programming Languages
+Java • Python • C++ • C • JavaScript • SQL • R
 
-### 🧠 Languages
-Python • Java • C++ • C  
+### 🎨 Frontend Development
+HTML • CSS • React.js • Next.js • Tailwind CSS
 
-### 🚀 Tools
-Git • GitHub • Vercel • Render • Postman • Figma • Docker 
+### ⚙️ Backend Development
+Node.js • Express.js • FastAPI • REST APIs
+
+### 🗄️ Databases
+MongoDB • MySQL • PostgreSQL
+
+### 🤖 AI / Machine Learning
+OpenAI API • YOLO • Computer Vision
+
+### 🚀 DevOps & Deployment
+Docker • Git • GitHub • Vercel • Render
+
+### 🧰 Tools & Platforms
+Postman • VS Code
 
 ---
 
