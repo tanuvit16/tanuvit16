@@ -2,7 +2,7 @@
 
 ## ⚡ About Me
 🎓 B.Tech CSE Student at VIT Vellore (2023–2027)  
-📊 CGPA: 8.08 / 10  
+📊 CGPA: 8.16 / 10  
 💻 Passionate about Full Stack Development & Modern Web Technologies  
 🚀 Interested in building scalable, responsive, and user-friendly applications  
 🧠 Exploring AI-powered systems and real-world software solutions  
